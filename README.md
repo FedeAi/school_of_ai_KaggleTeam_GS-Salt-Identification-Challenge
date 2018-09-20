@@ -12,7 +12,8 @@ and in addition to the seismic images, it is provided for each image the depth o
 The most used network topology in this competition is the U-net, it's like an encoder-decoder network. 
 For this reason these are the steps we must take:
 <ol>
-  <li>try to optimize the hyperparameters of the network.</li>
+  <li> Become a member of <a href="https://www.kaggle.com/c/tgs-salt-identification-challenge/team">school_of_AI</a> Kaggle's team </li>
+  <li>try to optimize the hyperparameters of the U-net network. Share your scores and your tips/hyperparameters on the slack channel or on the school_of_AI Kaggle's team (share your kernels) </li>
   
 </ol>
   
