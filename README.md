@@ -1,5 +1,5 @@
 # School_of_ai_KaggleTeam_GS-Salt-Identification-Challenge
-![alt text](https://github.com/Fede2000/school_of_ai_KaggleTeam_GS-Salt-Identification-Challenge/School of ai logo.png)
+![alt text]("https://github.com/Fede2000/school_of_ai_KaggleTeam_GS-Salt-Identification-Challenge/School of ai logo.png")
 
 
 Hi Team, the competition in which we will participate is this one https://www.kaggle.com/c/tgs-salt-identification-challenge.
