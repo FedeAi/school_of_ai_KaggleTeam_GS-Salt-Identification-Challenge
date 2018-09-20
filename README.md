@@ -1,5 +1,6 @@
 # School_of_ai_KaggleTeam_GS-Salt-Identification-Challenge
-![alt text](https://drive.google.com/open?id=16L6_xL7M4oZmOyVV0C5tbJwyquFKxeg_ "Logo Title Text 1")
+![alt text](
+      school_of_ai_KaggleTeam_GS-Salt-Identification-Challenge/School of ai logo.png "Logo Title Text 1")
 
 Hi Team, the competition in which we will participate is this one https://www.kaggle.com/c/tgs-salt-identification-challenge.
 
