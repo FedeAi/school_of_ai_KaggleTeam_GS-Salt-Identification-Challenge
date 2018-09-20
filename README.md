@@ -1,4 +1,5 @@
 # School_of_ai_KaggleTeam_GS-Salt-Identification-Challenge
+![alt text](https://drive.google.com/open?id=16L6_xL7M4oZmOyVV0C5tbJwyquFKxeg_ "Logo Title Text 1")
 
 Hi Team, the competition in which we will participate is this one https://www.kaggle.com/c/tgs-salt-identification-challenge.
 
@@ -25,15 +26,15 @@ We will use this repo as file container
   
 </ul>
   
-***
+
 ## Plan
-****
 The most used network topology in this competition is the U-net, it's like an encoder-decoder network. 
 For this reason these are the steps you must take:
 <ol>
   <li> Become a member of <a href="https://www.kaggle.com/c/tgs-salt-identification-challenge/team">school_of_AI</a> Kaggle's team </li>
   <li> Try to optimize the hyperparameters of the U-net network. Share your scores and your tips/hyperparameters on the slack channel or on the school_of_AI Kaggle's team (share your kernels) </li>
   <li> Once we reach good scores we can create other networks other than U-NET </li>
+  <li> Try to combine multiple models </li>
 </ol>
   
 ****
