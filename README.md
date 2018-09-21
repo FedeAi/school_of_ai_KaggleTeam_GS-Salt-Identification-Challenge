@@ -24,6 +24,7 @@ We will use this repo as file container
   <li> Siraj's file: https://github.com/llSourcell/Kaggle_Challenge_LIVE/   </li>
   <li> Data exploration Kaggle kernel: https://www.kaggle.com/meaninglesslives/data-exploration  </li>
   <li> Clean Workflow in Keras Kaggle kernel: https://www.kaggle.com/wrosinski/clean-workflow-in-keras  </li>
+  <li> scoring-metric explanation:https://www.kaggle.com/pestipeti/explanation-of-scoring-metric </li>
   
 </ul>
   
