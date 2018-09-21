@@ -1,4 +1,4 @@
-# School_of_ai_KaggleTeam_GS-Salt-Identification-Challenge
+# School of ai KaggleTeam   GS-Salt-Identification-Challenge
 ![alt text](https://github.com/Fede2000/school_of_ai_KaggleTeam_GS-Salt-Identification-Challenge/blob/master/logo.png?raw=true)
 
 
