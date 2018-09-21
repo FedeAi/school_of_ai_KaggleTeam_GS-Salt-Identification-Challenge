@@ -1,5 +1,11 @@
 import numpy as np
 
+'''
+If you want the total score for your output then use the calc_metric function. If you want individual image scores then use the indiv_scores function.
+
+Note: The script assumes that your ground truth and predicted masks have values 0 to 1. Not 0 to 255.
+
+'''
 
 def calc_iou(actual,pred):
   intersection = np.count_nonzero(actual*pred)
