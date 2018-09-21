@@ -34,7 +34,7 @@ The most used network topology in this competition is the U-net, it's like an en
 For this reason these are the steps you must take:
 <ol>
   <li> Become a member of <a href="https://www.kaggle.com/c/tgs-salt-identification-challenge/team">school_of_AI</a> Kaggle's team ** </li>
-  <li> Try to optimize the hyperparameters of the U-net network and to do data augmentation if necessary. Share your scores and your tips/hyperparameters on the slack channel or on the school_of_AI Kaggle's team (share your kernels) </li>
+  <li> Try to optimize the hyperparameters of the U-net network and to do data augmentation if necessary. Share your scores and your tips/hyperparameters on the slack channel or on the school_of_AI Kaggle's team (share your kernels). Use "/scoring metric" for model evaluation </li>
   <li> Once we reach good scores we can create other networks other than U-NET </li>
   <li> Try to combine multiple models </li>
 </ol>
