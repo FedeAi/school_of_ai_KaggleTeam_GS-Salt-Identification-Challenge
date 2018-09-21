@@ -39,6 +39,9 @@ For this reason these are the steps you must take:
 </ol>
   
 ****
+****
+
+
 ## Warnings
 ** <b>KaggleTeam can only perform 5 submissions per day</b>, so if you are a member of the kaggle team pay attention before sending predictions ( ask before sending them on the Slack channel ). 
 ****
